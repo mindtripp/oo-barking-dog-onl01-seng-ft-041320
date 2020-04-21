@@ -1,4 +1,4 @@
-# Your class Dog
+class Dog
   def name
     @name
   end
@@ -12,10 +12,5 @@
   end
 end
 
-# class Dog
 
-   # def bark
-   #   puts "woof!"
-   # end
 
-# end goes here!
